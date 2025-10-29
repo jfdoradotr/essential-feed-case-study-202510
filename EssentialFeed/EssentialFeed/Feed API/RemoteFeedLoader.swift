@@ -22,7 +22,7 @@ public final class RemoteFeedLoader {
     case invalidData
   }
 
-  public init(url: URL = URL(string: "https://a-url.com")!, client: HTTPClient) {
+  public init(url: URL, client: HTTPClient) {
     self.url = url
     self.client = client
   }
