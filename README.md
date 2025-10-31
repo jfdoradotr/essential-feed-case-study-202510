@@ -1,5 +1,7 @@
 # Essential Feed App – Image Feed Feature
 
+[![CI](https://github.com/jfdoradotr/essential-feed-case-study-202510/actions/workflows/CI.yml/badge.svg)](https://github.com/jfdoradotr/essential-feed-case-study-202510/actions/workflows/CI.yml)
+
 ## BDD Specs
 
 ### Story: Customer requests to see their image feed
